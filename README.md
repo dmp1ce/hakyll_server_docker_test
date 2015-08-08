@@ -1,6 +1,6 @@
 # Hakyll server in Docker test
 
-To see if the Hakyll server works first build the 'site' executable.
+To see if the Hakyll server works in a Docker container first build the 'site' executable.
 
 `docker build -t hakyll_server_docker_test .`
 
